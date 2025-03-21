@@ -13,7 +13,7 @@ Here is a summary of what you will be able to learn in each step by following th
 - **Compute evaluation metrics**: Compute evaluation metrics in batch on the run.
 - **Examine results**: Navigate AI Observability in Snowsight to view and compare traces and evaluation results.
 
-- ### Related Resources
+## Related Resources
 
 - [AI Observability Documentation](...)
 - [Open Source TruLens Documentation](https://trulens.org/)

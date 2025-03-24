@@ -6,7 +6,6 @@ Here is a summary of what you will be able to learn in each step by following th
 
 - **Setup Environment**: Create a snowflake objects required for the example.
 - **Prepare data**: Load, parse and chunk data for RAG.
-- **Search**: Create a Cortex Search service on top of the chunked data.
 - **Create a RAG**: Create a RAG with Cortex Search and Complete, adding TruLens instrumentation.
 - **Register the app**: Set application metadata for experiment tracking.
 - **Create a run**: Configure your test set for evaluation.

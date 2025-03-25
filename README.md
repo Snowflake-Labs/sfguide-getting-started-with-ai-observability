@@ -14,5 +14,6 @@ Here is a summary of what you will be able to learn in each step by following th
 
 ## Related Resources
 
-- [AI Observability Documentation](...)
-- [Open Source TruLens Documentation](https://trulens.org/)
+- [AI Observabilty Documentation](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-observability/)
+- [Open Source TruLens Documentation](https://www.trulens.org/getting_started/)
+

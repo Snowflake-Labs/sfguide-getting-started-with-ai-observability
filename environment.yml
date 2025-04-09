@@ -1,0 +1,12 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - munch=*
+  - snowflake=*
+  - snowflake-ml-python=*
+  - snowflake-snowpark-python=*
+  - trulens-connectors-snowflake=*
+  - trulens-core=*
+  - trulens-otel-semconv=*
+  - typing=*
